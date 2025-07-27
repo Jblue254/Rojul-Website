@@ -1,0 +1,37 @@
+.Background {
+  background-image: url('/image\ 1.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
+.back{
+  background-image: url('/pic\ 2.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+
+}
+.back1{
+    background-image: url('/pic\ 3.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
+.bout{
+  background-image: url('/GAL.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
+.bout2{
+    background-image: url('/gal\ 3.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
+.bout3{
+      background-image: url('/gal\ 4.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
